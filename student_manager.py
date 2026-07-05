@@ -8,7 +8,7 @@ while True:
         print("Good Bye!")
         break
 
-students.append(student)
+    students.append(student)
 
 print("\n Student list: ")
 

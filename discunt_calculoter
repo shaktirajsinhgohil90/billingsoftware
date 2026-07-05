@@ -1,0 +1,8 @@
+def discount(price):
+    if price >= 1000:
+        return price - (price * 10/100)
+    else:
+        return price
+print(discount(1500))
+print(discount(500))
+      
